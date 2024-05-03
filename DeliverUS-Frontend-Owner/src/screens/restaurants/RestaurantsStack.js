@@ -41,6 +41,14 @@ export default function RestaurantsStack () {
         options={{
           title: 'Edit Restaurant'
         }} />
+        {/*
+        <Stack.Screen
+          name='EditProductScreen'
+          component={EditProductScreen}
+          options={{
+            title: 'Edit Product'
+          }} />
+          */}
     </Stack.Navigator>
   )
 }
